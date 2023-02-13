@@ -1,11 +1,9 @@
 .vscode
 combine.py
 dataStats.py
-data/pass.txt
+datasets/pass.txt
 __pycache__
 dataLoader/
 .ipynb_checkpoints
-data/train-augmented/*.jpg
-data/train-original/*.jpg
-data/test/*.jpg
+datasets
 One Shot Learning/*.pt
